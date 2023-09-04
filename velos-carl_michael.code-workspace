@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Shopping-OOP",
+			"path": "."
+		},
+		{
+			"name": "Shopping-OOP-1",
+			"path": "../Shopping-OOP-1"
+		}
+	],
+	"settings": {}
+}
